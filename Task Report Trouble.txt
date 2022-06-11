@@ -1,0 +1,17 @@
+Task II. - Reporting problems
+
+Subtask 1. Get dataset with 10 reviews from your favourite coffee shop or restaurant running any actor on Apify.
+	-Google Maps Reviews Scraper works absolutely superb
+	-Also as I played in the store, I tried Yelp scraper and tried to scrape reviews for my nearest restaurant (Pivovar Lužiny). On Yelp webside are 5 reviews 
+	of which 2 reviews are in Czech, but scraped was only english ones. And I don't know why. :-)
+
+Subtask 2. Get 10 comments from this Tiktok ****post: https://www.tiktok.com/@miri.holkazmoravy/video/7088737832990149894?is_copy_url=1&is_from_webapp=v1
+	-This was hard, because "log in using cookies" was absolutely new to me and I asume it's difficult for common user too. 
+	-I was dissapointed when I didn't find anything on it in Info text or in Tutorial for Tik Tok scraper. I would consider adding quick link to Apify Docs, just for good customer experience
+
+Subtask 3. Get 10 results from YouTube containing a search word Minecraft that were posted in the last month and are less then 4-minutes long
+	-I used direct URL copied from YT while respective filters were selected
+	-Dataset contained only 9 results
+	-Cause: YT filter "under 4 minutes long" includes Live streams, where timeline goes backward and present time is always 0:00
+	-Fix: I am not sure, if this possible to do...But...If code behind YT scraper could by adjusted to only scrape pre-recorded content. Youtube HTML distinguishes between live stream
+	and pre-recorded video using: '.ytp-live-badge' and its attribute must be 'disabled'.
