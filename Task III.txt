@@ -1,0 +1,28 @@
+III.
+Why did these run failed? What would you write/advise to the user or the developer of the actor?
+
+https://console.apify.com/view/runs/L349gOZXjFqxYhvY2
+This run failed because as Input was used search url and Location was set to Sacramento.
+Advice to customer: If you want scrape Airbnb listings in certain area, please use Location box in Input. If you want all kinds of information on specific listing(s), please use Url of
+specific places in Input. While using second functionality, do not use search url. Click on chosen acommodation and then copy url into box.
+
+Real life error in Info for Airbnb Scraper: "Input parameters
+There are two ways you can scrape Airbnb:
+by locationQuery parameter - will get you all available listings for a given location (city, town).
+or by startUrls parameter - will get you all details from a single listing URL. Can be used only for    " sentence is cut in the middle
+
+
+https://console.apify.com/view/runs/lqRBmuGsFvv9hVR6n
+Multiple values were put in State geolocation.
+Advice to customer: When using Advanced configuration(Geolocation) you can use only one value per box, e.g. box State can only contain one state name.
+
+
+https://console.apify.com/view/runs/NPrOhkuEeLb2UPFmS
+Customer exceeded monthly limit. I would consider contact the client with upgrade offer.
+
+
+https://console.apify.com/view/runs/WL70f4TTO2sEijwHs
+Yeah, time traveling is difficult. Customer put dates in the wrong boxes. I admit I was confused by description of this part in Instagram scraper, but seeing min and max in json input 
+was much clearer.
+Advice to customer: If you are looking for specific time range, e.g. from 5.1.2022 to 15.1.2022, you need to put date nearer to present time in the box From Date and 
+date farther to present in the box Until Date.
