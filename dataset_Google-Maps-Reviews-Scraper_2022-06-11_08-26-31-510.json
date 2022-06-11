@@ -1,0 +1,850 @@
+[{
+  "title": "Black Dog",
+  "subTitle": null,
+  "price": null,
+  "menu": "blackdogs.cz",
+  "categoryName": "American restaurant",
+  "address": "Gorazdova 357 /1, 120 00 Nové Město, Czechia",
+  "locatedIn": null,
+  "neighborhood": "Gorazdova 357 /1",
+  "street": "Gorazdova 357 /1",
+  "city": "New Town",
+  "postalCode": "120 00",
+  "state": null,
+  "countryCode": "CZ",
+  "plusCode": "3CF7+9W Prague, Czechia",
+  "website": "https://www.blackdogs.cz/cs/praha",
+  "phone": "+420 735 750 050",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 50.0734534,
+    "lng": 14.4148511
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "placeId": "ChIJPdYse_aUC0cRU314PH9O3b4",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Barbecue restaurant",
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "cid": "13753235145441705299",
+  "url": "https://www.google.com/maps/place/Black+Dog/@50.0734534,14.4126624,17z/data=!4m5!3m4!1s0x470b94f67b2cd63d:0xbedd4e7f3c787d53!8m2!3d50.0734322!4d14.4141292?hl=en",
+  "searchString": null,
+  "scrapedAt": "2022-06-11T08:26:29.341Z",
+  "reviewsCount": 2193,
+  "reviewsDistribution": {
+    "oneStar": 52,
+    "twoStar": 48,
+    "threeStar": 189,
+    "fourStar": 561,
+    "fiveStar": 1343
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMnrdM23zjkRYCuLrAqJuETaKc4uKczFgjF-6_c=w1920-h1080-k-no"
+  ],
+  "orderBy": [
+    {
+      "name": "blackdogs.cz",
+      "url": "blackdogs.cz",
+      "orderUrl": "https://www.blackdogs.cz/cs/praha/rozvoz"
+    },
+    {
+      "name": "Wolt",
+      "url": "wolt.com",
+      "orderUrl": "https://wolt.com/en/cze/prague/restaurant/blackdog?utm_source=googlemapreserved&utm_campaign=blackdog"
+    },
+    {
+      "name": "Damejidlo",
+      "url": "damejidlo.cz",
+      "orderUrl": "https://www.damejidlo.cz/restaurant/f2ze/blackdog-cantina?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action"
+    },
+    {
+      "name": "bolt.eu",
+      "url": "bolt.eu",
+      "orderUrl": "https://food.bolt.eu/cs-cz/"
+    }
+  ],
+  "name": "Jess Gray",
+  "text": "Came in for a quick lunch and they managed to get us a table, even though they were fully booked (we stayed for 45 minutes maximum).\nService is one of the best and most welcoming I've had in Prague. Food was absolutely great and totally worth the price.\nThis will become a regular of ours for sure! No idea why it took so long to try but happy we did :) thanks guys!",
+  "publishAt": "2 months ago",
+  "publishedAtDate": "2022-03-26T14:40:30.180Z",
+  "likesCount": 0,
+  "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURXX3UzVTZ3RRAB",
+  "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURXX3UzVTZ3RRAB!2m1!1s0x0:0xbedd4e7f3c787d53!3m1!1s2@1:CIHM0ogKEICAgIDW_u3U6wE%7CCgsI3sv8kQYQgLuOVg%7C?hl=en-US",
+  "reviewerId": "109379698366651829872",
+  "reviewerUrl": "https://www.google.com/maps/contrib/109379698366651829872?hl=en-US",
+  "reviewerNumberOfReviews": 54,
+  "isLocalGuide": true,
+  "stars": 5,
+  "rating": null,
+  "responseFromOwnerDate": null,
+  "responseFromOwnerText": null
+},
+{
+  "title": "Black Dog",
+  "subTitle": null,
+  "price": null,
+  "menu": "blackdogs.cz",
+  "categoryName": "American restaurant",
+  "address": "Gorazdova 357 /1, 120 00 Nové Město, Czechia",
+  "locatedIn": null,
+  "neighborhood": "Gorazdova 357 /1",
+  "street": "Gorazdova 357 /1",
+  "city": "New Town",
+  "postalCode": "120 00",
+  "state": null,
+  "countryCode": "CZ",
+  "plusCode": "3CF7+9W Prague, Czechia",
+  "website": "https://www.blackdogs.cz/cs/praha",
+  "phone": "+420 735 750 050",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 50.0734534,
+    "lng": 14.4148511
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "placeId": "ChIJPdYse_aUC0cRU314PH9O3b4",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Barbecue restaurant",
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "cid": "13753235145441705299",
+  "url": "https://www.google.com/maps/place/Black+Dog/@50.0734534,14.4126624,17z/data=!4m5!3m4!1s0x470b94f67b2cd63d:0xbedd4e7f3c787d53!8m2!3d50.0734322!4d14.4141292?hl=en",
+  "searchString": null,
+  "scrapedAt": "2022-06-11T08:26:29.341Z",
+  "reviewsCount": 2193,
+  "reviewsDistribution": {
+    "oneStar": 52,
+    "twoStar": 48,
+    "threeStar": 189,
+    "fourStar": 561,
+    "fiveStar": 1343
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMnrdM23zjkRYCuLrAqJuETaKc4uKczFgjF-6_c=w1920-h1080-k-no"
+  ],
+  "orderBy": [
+    {
+      "name": "blackdogs.cz",
+      "url": "blackdogs.cz",
+      "orderUrl": "https://www.blackdogs.cz/cs/praha/rozvoz"
+    },
+    {
+      "name": "Wolt",
+      "url": "wolt.com",
+      "orderUrl": "https://wolt.com/en/cze/prague/restaurant/blackdog?utm_source=googlemapreserved&utm_campaign=blackdog"
+    },
+    {
+      "name": "Damejidlo",
+      "url": "damejidlo.cz",
+      "orderUrl": "https://www.damejidlo.cz/restaurant/f2ze/blackdog-cantina?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action"
+    },
+    {
+      "name": "bolt.eu",
+      "url": "bolt.eu",
+      "orderUrl": "https://food.bolt.eu/cs-cz/"
+    }
+  ],
+  "name": "Ivana Kopkova (Iva_runstheworld)",
+  "text": "Tasty burgers, good lunch menu offer. Pretty busy during lunch time also the meal prep is longer but worth to wait :)\nA little overpriced but nothing crazy :)",
+  "publishAt": "2 months ago",
+  "publishedAtDate": "2022-03-28T17:04:03.589Z",
+  "likesCount": 1,
+  "reviewId": "ChZDSUhNMG9nS0VJQ0FnSURXbWNieWN3EAE",
+  "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURXbWNieWN3EAE!2m1!1s0x0:0xbedd4e7f3c787d53!3m1!1s2@1:CIHM0ogKEICAgIDWmcbycw%7CCgwIg9WHkgYQoIKAmQI%7C?hl=en-US",
+  "reviewerId": "112194146992296485218",
+  "reviewerUrl": "https://www.google.com/maps/contrib/112194146992296485218?hl=en-US",
+  "reviewerNumberOfReviews": 300,
+  "isLocalGuide": true,
+  "stars": 4,
+  "rating": null,
+  "responseFromOwnerDate": null,
+  "responseFromOwnerText": null
+},
+{
+  "title": "Black Dog",
+  "subTitle": null,
+  "price": null,
+  "menu": "blackdogs.cz",
+  "categoryName": "American restaurant",
+  "address": "Gorazdova 357 /1, 120 00 Nové Město, Czechia",
+  "locatedIn": null,
+  "neighborhood": "Gorazdova 357 /1",
+  "street": "Gorazdova 357 /1",
+  "city": "New Town",
+  "postalCode": "120 00",
+  "state": null,
+  "countryCode": "CZ",
+  "plusCode": "3CF7+9W Prague, Czechia",
+  "website": "https://www.blackdogs.cz/cs/praha",
+  "phone": "+420 735 750 050",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 50.0734534,
+    "lng": 14.4148511
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "placeId": "ChIJPdYse_aUC0cRU314PH9O3b4",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Barbecue restaurant",
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "cid": "13753235145441705299",
+  "url": "https://www.google.com/maps/place/Black+Dog/@50.0734534,14.4126624,17z/data=!4m5!3m4!1s0x470b94f67b2cd63d:0xbedd4e7f3c787d53!8m2!3d50.0734322!4d14.4141292?hl=en",
+  "searchString": null,
+  "scrapedAt": "2022-06-11T08:26:29.341Z",
+  "reviewsCount": 2193,
+  "reviewsDistribution": {
+    "oneStar": 52,
+    "twoStar": 48,
+    "threeStar": 189,
+    "fourStar": 561,
+    "fiveStar": 1343
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMnrdM23zjkRYCuLrAqJuETaKc4uKczFgjF-6_c=w1920-h1080-k-no"
+  ],
+  "orderBy": [
+    {
+      "name": "blackdogs.cz",
+      "url": "blackdogs.cz",
+      "orderUrl": "https://www.blackdogs.cz/cs/praha/rozvoz"
+    },
+    {
+      "name": "Wolt",
+      "url": "wolt.com",
+      "orderUrl": "https://wolt.com/en/cze/prague/restaurant/blackdog?utm_source=googlemapreserved&utm_campaign=blackdog"
+    },
+    {
+      "name": "Damejidlo",
+      "url": "damejidlo.cz",
+      "orderUrl": "https://www.damejidlo.cz/restaurant/f2ze/blackdog-cantina?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action"
+    },
+    {
+      "name": "bolt.eu",
+      "url": "bolt.eu",
+      "orderUrl": "https://food.bolt.eu/cs-cz/"
+    }
+  ],
+  "name": "Karel",
+  "text": "My family and I have been to the Black Dog several times and always enjoy it. We even say outside with our dog without any complaints. Burgers are cooked to order. Amazingly I'd like to add. They have great sweet potato fries and their atomic burger lives up to its name. I love spice and it hits the spot. I wish I had taken some photos for you, sorry.",
+  "publishAt": "a month ago",
+  "publishedAtDate": "2022-05-10T14:21:50.602Z",
+  "likesCount": 0,
+  "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUQya29iWHRnRRAB",
+  "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQya29iWHRnRRAB!2m1!1s0x0:0xbedd4e7f3c787d53!3m1!1s2@1:CIHM0ogKEICAgID2kobXtgE%7CCgwI_unpkwYQwMGNnwI%7C?hl=en-US",
+  "reviewerId": "108385348525908002818",
+  "reviewerUrl": "https://www.google.com/maps/contrib/108385348525908002818?hl=en-US",
+  "reviewerNumberOfReviews": 37,
+  "isLocalGuide": true,
+  "stars": 5,
+  "rating": null,
+  "responseFromOwnerDate": "2022-05-11T12:42:48.274Z",
+  "responseFromOwnerText": "Karel, thank you very much for your comment. BR Petr x Blackdog team"
+},
+{
+  "title": "Black Dog",
+  "subTitle": null,
+  "price": null,
+  "menu": "blackdogs.cz",
+  "categoryName": "American restaurant",
+  "address": "Gorazdova 357 /1, 120 00 Nové Město, Czechia",
+  "locatedIn": null,
+  "neighborhood": "Gorazdova 357 /1",
+  "street": "Gorazdova 357 /1",
+  "city": "New Town",
+  "postalCode": "120 00",
+  "state": null,
+  "countryCode": "CZ",
+  "plusCode": "3CF7+9W Prague, Czechia",
+  "website": "https://www.blackdogs.cz/cs/praha",
+  "phone": "+420 735 750 050",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 50.0734534,
+    "lng": 14.4148511
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "placeId": "ChIJPdYse_aUC0cRU314PH9O3b4",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Barbecue restaurant",
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "cid": "13753235145441705299",
+  "url": "https://www.google.com/maps/place/Black+Dog/@50.0734534,14.4126624,17z/data=!4m5!3m4!1s0x470b94f67b2cd63d:0xbedd4e7f3c787d53!8m2!3d50.0734322!4d14.4141292?hl=en",
+  "searchString": null,
+  "scrapedAt": "2022-06-11T08:26:29.341Z",
+  "reviewsCount": 2193,
+  "reviewsDistribution": {
+    "oneStar": 52,
+    "twoStar": 48,
+    "threeStar": 189,
+    "fourStar": 561,
+    "fiveStar": 1343
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMnrdM23zjkRYCuLrAqJuETaKc4uKczFgjF-6_c=w1920-h1080-k-no"
+  ],
+  "orderBy": [
+    {
+      "name": "blackdogs.cz",
+      "url": "blackdogs.cz",
+      "orderUrl": "https://www.blackdogs.cz/cs/praha/rozvoz"
+    },
+    {
+      "name": "Wolt",
+      "url": "wolt.com",
+      "orderUrl": "https://wolt.com/en/cze/prague/restaurant/blackdog?utm_source=googlemapreserved&utm_campaign=blackdog"
+    },
+    {
+      "name": "Damejidlo",
+      "url": "damejidlo.cz",
+      "orderUrl": "https://www.damejidlo.cz/restaurant/f2ze/blackdog-cantina?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action"
+    },
+    {
+      "name": "bolt.eu",
+      "url": "bolt.eu",
+      "orderUrl": "https://food.bolt.eu/cs-cz/"
+    }
+  ],
+  "name": "Jan Gemrich",
+  "text": "Long story short - great burgers, great staff. Look, the food is amazing, but you can get a good burger (maybe even a bit better somewhere) else. What is nice here is the staff, always to the point, but super accommodative and friendly. Do you have a bike? You get a table where you can out it. Have a stroller? No issue...",
+  "publishAt": "2 months ago",
+  "publishedAtDate": "2022-03-26T16:36:42.950Z",
+  "likesCount": 0,
+  "reviewId": "ChZDSUhNMG9nS0VJQ0FnSURXNFpiNllnEAE",
+  "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChZDSUhNMG9nS0VJQ0FnSURXNFpiNllnEAE!2m1!1s0x0:0xbedd4e7f3c787d53!3m1!1s2@1:CIHM0ogKEICAgIDW4Zb6Yg%7CCgwImoL9kQYQ8MuwxQM%7C?hl=en-US",
+  "reviewerId": "104922001665742539850",
+  "reviewerUrl": "https://www.google.com/maps/contrib/104922001665742539850?hl=en-US",
+  "reviewerNumberOfReviews": 431,
+  "isLocalGuide": true,
+  "stars": 5,
+  "rating": null,
+  "responseFromOwnerDate": null,
+  "responseFromOwnerText": null
+},
+{
+  "title": "Black Dog",
+  "subTitle": null,
+  "price": null,
+  "menu": "blackdogs.cz",
+  "categoryName": "American restaurant",
+  "address": "Gorazdova 357 /1, 120 00 Nové Město, Czechia",
+  "locatedIn": null,
+  "neighborhood": "Gorazdova 357 /1",
+  "street": "Gorazdova 357 /1",
+  "city": "New Town",
+  "postalCode": "120 00",
+  "state": null,
+  "countryCode": "CZ",
+  "plusCode": "3CF7+9W Prague, Czechia",
+  "website": "https://www.blackdogs.cz/cs/praha",
+  "phone": "+420 735 750 050",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 50.0734534,
+    "lng": 14.4148511
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "placeId": "ChIJPdYse_aUC0cRU314PH9O3b4",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Barbecue restaurant",
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "cid": "13753235145441705299",
+  "url": "https://www.google.com/maps/place/Black+Dog/@50.0734534,14.4126624,17z/data=!4m5!3m4!1s0x470b94f67b2cd63d:0xbedd4e7f3c787d53!8m2!3d50.0734322!4d14.4141292?hl=en",
+  "searchString": null,
+  "scrapedAt": "2022-06-11T08:26:29.341Z",
+  "reviewsCount": 2193,
+  "reviewsDistribution": {
+    "oneStar": 52,
+    "twoStar": 48,
+    "threeStar": 189,
+    "fourStar": 561,
+    "fiveStar": 1343
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMnrdM23zjkRYCuLrAqJuETaKc4uKczFgjF-6_c=w1920-h1080-k-no"
+  ],
+  "orderBy": [
+    {
+      "name": "blackdogs.cz",
+      "url": "blackdogs.cz",
+      "orderUrl": "https://www.blackdogs.cz/cs/praha/rozvoz"
+    },
+    {
+      "name": "Wolt",
+      "url": "wolt.com",
+      "orderUrl": "https://wolt.com/en/cze/prague/restaurant/blackdog?utm_source=googlemapreserved&utm_campaign=blackdog"
+    },
+    {
+      "name": "Damejidlo",
+      "url": "damejidlo.cz",
+      "orderUrl": "https://www.damejidlo.cz/restaurant/f2ze/blackdog-cantina?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action"
+    },
+    {
+      "name": "bolt.eu",
+      "url": "bolt.eu",
+      "orderUrl": "https://food.bolt.eu/cs-cz/"
+    }
+  ],
+  "name": "Hamza Baig",
+  "text": "The food was nice but the service was a bit sketchy. Which really killed the mood. We were sitting outside and it was kinda rainy, we asked the service if they could open one of their umbrellas but they simply declined. They were also a bit of rude and not very welcoming. However, burgers were good.",
+  "publishAt": "10 months ago",
+  "publishedAtDate": "2021-07-27T13:25:05.487Z",
+  "likesCount": 0,
+  "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNhMG9ySzRBRRAB",
+  "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNhMG9ySzRBRRAB!2m1!1s0x0:0xbedd4e7f3c787d53!3m1!1s2@1:CIHM0ogKEICAgICa0orK4AE%7CCgwIsZKAiAYQwOKq6AE%7C?hl=en-US",
+  "reviewerId": "110620536503902040158",
+  "reviewerUrl": "https://www.google.com/maps/contrib/110620536503902040158?hl=en-US",
+  "reviewerNumberOfReviews": 24,
+  "isLocalGuide": true,
+  "stars": 3,
+  "rating": null,
+  "responseFromOwnerDate": null,
+  "responseFromOwnerText": null
+},
+{
+  "title": "Black Dog",
+  "subTitle": null,
+  "price": null,
+  "menu": "blackdogs.cz",
+  "categoryName": "American restaurant",
+  "address": "Gorazdova 357 /1, 120 00 Nové Město, Czechia",
+  "locatedIn": null,
+  "neighborhood": "Gorazdova 357 /1",
+  "street": "Gorazdova 357 /1",
+  "city": "New Town",
+  "postalCode": "120 00",
+  "state": null,
+  "countryCode": "CZ",
+  "plusCode": "3CF7+9W Prague, Czechia",
+  "website": "https://www.blackdogs.cz/cs/praha",
+  "phone": "+420 735 750 050",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 50.0734534,
+    "lng": 14.4148511
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "placeId": "ChIJPdYse_aUC0cRU314PH9O3b4",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Barbecue restaurant",
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "cid": "13753235145441705299",
+  "url": "https://www.google.com/maps/place/Black+Dog/@50.0734534,14.4126624,17z/data=!4m5!3m4!1s0x470b94f67b2cd63d:0xbedd4e7f3c787d53!8m2!3d50.0734322!4d14.4141292?hl=en",
+  "searchString": null,
+  "scrapedAt": "2022-06-11T08:26:29.341Z",
+  "reviewsCount": 2193,
+  "reviewsDistribution": {
+    "oneStar": 52,
+    "twoStar": 48,
+    "threeStar": 189,
+    "fourStar": 561,
+    "fiveStar": 1343
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMnrdM23zjkRYCuLrAqJuETaKc4uKczFgjF-6_c=w1920-h1080-k-no"
+  ],
+  "orderBy": [
+    {
+      "name": "blackdogs.cz",
+      "url": "blackdogs.cz",
+      "orderUrl": "https://www.blackdogs.cz/cs/praha/rozvoz"
+    },
+    {
+      "name": "Wolt",
+      "url": "wolt.com",
+      "orderUrl": "https://wolt.com/en/cze/prague/restaurant/blackdog?utm_source=googlemapreserved&utm_campaign=blackdog"
+    },
+    {
+      "name": "Damejidlo",
+      "url": "damejidlo.cz",
+      "orderUrl": "https://www.damejidlo.cz/restaurant/f2ze/blackdog-cantina?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action"
+    },
+    {
+      "name": "bolt.eu",
+      "url": "bolt.eu",
+      "orderUrl": "https://food.bolt.eu/cs-cz/"
+    }
+  ],
+  "name": "Zlata GERGELOVA",
+  "text": "Ok veggie burger, good French fries (they are paid extra), very salty chalapenos, ok coleslaw, bbq sauce overly tasting after cloves. Quite friendly staff, unless you are staying until their closure time at 22h.",
+  "publishAt": "5 months ago",
+  "publishedAtDate": "2021-12-12T18:38:33.095Z",
+  "likesCount": 1,
+  "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURHdW9TczV3RRAB",
+  "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURHdW9TczV3RRAB!2m1!1s0x0:0xbedd4e7f3c787d53!3m1!1s2@1:CIHM0ogKEICAgIDGuoSs5wE%7CCgsIqYPZjQYQ6NLaLQ%7C?hl=en-US",
+  "reviewerId": "116231965707456846721",
+  "reviewerUrl": "https://www.google.com/maps/contrib/116231965707456846721?hl=en-US",
+  "reviewerNumberOfReviews": 706,
+  "isLocalGuide": true,
+  "stars": 3,
+  "rating": null,
+  "responseFromOwnerDate": null,
+  "responseFromOwnerText": null
+},
+{
+  "title": "Black Dog",
+  "subTitle": null,
+  "price": null,
+  "menu": "blackdogs.cz",
+  "categoryName": "American restaurant",
+  "address": "Gorazdova 357 /1, 120 00 Nové Město, Czechia",
+  "locatedIn": null,
+  "neighborhood": "Gorazdova 357 /1",
+  "street": "Gorazdova 357 /1",
+  "city": "New Town",
+  "postalCode": "120 00",
+  "state": null,
+  "countryCode": "CZ",
+  "plusCode": "3CF7+9W Prague, Czechia",
+  "website": "https://www.blackdogs.cz/cs/praha",
+  "phone": "+420 735 750 050",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 50.0734534,
+    "lng": 14.4148511
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "placeId": "ChIJPdYse_aUC0cRU314PH9O3b4",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Barbecue restaurant",
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "cid": "13753235145441705299",
+  "url": "https://www.google.com/maps/place/Black+Dog/@50.0734534,14.4126624,17z/data=!4m5!3m4!1s0x470b94f67b2cd63d:0xbedd4e7f3c787d53!8m2!3d50.0734322!4d14.4141292?hl=en",
+  "searchString": null,
+  "scrapedAt": "2022-06-11T08:26:29.341Z",
+  "reviewsCount": 2193,
+  "reviewsDistribution": {
+    "oneStar": 52,
+    "twoStar": 48,
+    "threeStar": 189,
+    "fourStar": 561,
+    "fiveStar": 1343
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMnrdM23zjkRYCuLrAqJuETaKc4uKczFgjF-6_c=w1920-h1080-k-no"
+  ],
+  "orderBy": [
+    {
+      "name": "blackdogs.cz",
+      "url": "blackdogs.cz",
+      "orderUrl": "https://www.blackdogs.cz/cs/praha/rozvoz"
+    },
+    {
+      "name": "Wolt",
+      "url": "wolt.com",
+      "orderUrl": "https://wolt.com/en/cze/prague/restaurant/blackdog?utm_source=googlemapreserved&utm_campaign=blackdog"
+    },
+    {
+      "name": "Damejidlo",
+      "url": "damejidlo.cz",
+      "orderUrl": "https://www.damejidlo.cz/restaurant/f2ze/blackdog-cantina?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action"
+    },
+    {
+      "name": "bolt.eu",
+      "url": "bolt.eu",
+      "orderUrl": "https://food.bolt.eu/cs-cz/"
+    }
+  ],
+  "name": "Artur",
+  "text": "The atom burger was quite spicy, beer was delicious, and pub-like atmosphere. I highly recommend this place for a quick lunch or full dinner. It’s always a good time.",
+  "publishAt": "2 months ago",
+  "publishedAtDate": "2022-04-03T10:40:06.056Z",
+  "likesCount": 0,
+  "reviewId": "ChdDSUhNMG9nS0VJQ0FnSURXMDlMYzVBRRAB",
+  "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSURXMDlMYzVBRRAB!2m1!1s0x0:0xbedd4e7f3c787d53!3m1!1s2@1:CIHM0ogKEICAgIDW09Lc5AE%7CCgsIhvOlkgYQqNP-Gg%7C?hl=en-US",
+  "reviewerId": "109067389663503283377",
+  "reviewerUrl": "https://www.google.com/maps/contrib/109067389663503283377?hl=en-US",
+  "reviewerNumberOfReviews": 17,
+  "isLocalGuide": true,
+  "stars": 5,
+  "rating": null,
+  "responseFromOwnerDate": null,
+  "responseFromOwnerText": null
+},
+{
+  "title": "Black Dog",
+  "subTitle": null,
+  "price": null,
+  "menu": "blackdogs.cz",
+  "categoryName": "American restaurant",
+  "address": "Gorazdova 357 /1, 120 00 Nové Město, Czechia",
+  "locatedIn": null,
+  "neighborhood": "Gorazdova 357 /1",
+  "street": "Gorazdova 357 /1",
+  "city": "New Town",
+  "postalCode": "120 00",
+  "state": null,
+  "countryCode": "CZ",
+  "plusCode": "3CF7+9W Prague, Czechia",
+  "website": "https://www.blackdogs.cz/cs/praha",
+  "phone": "+420 735 750 050",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 50.0734534,
+    "lng": 14.4148511
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "placeId": "ChIJPdYse_aUC0cRU314PH9O3b4",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Barbecue restaurant",
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "cid": "13753235145441705299",
+  "url": "https://www.google.com/maps/place/Black+Dog/@50.0734534,14.4126624,17z/data=!4m5!3m4!1s0x470b94f67b2cd63d:0xbedd4e7f3c787d53!8m2!3d50.0734322!4d14.4141292?hl=en",
+  "searchString": null,
+  "scrapedAt": "2022-06-11T08:26:29.341Z",
+  "reviewsCount": 2193,
+  "reviewsDistribution": {
+    "oneStar": 52,
+    "twoStar": 48,
+    "threeStar": 189,
+    "fourStar": 561,
+    "fiveStar": 1343
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMnrdM23zjkRYCuLrAqJuETaKc4uKczFgjF-6_c=w1920-h1080-k-no"
+  ],
+  "orderBy": [
+    {
+      "name": "blackdogs.cz",
+      "url": "blackdogs.cz",
+      "orderUrl": "https://www.blackdogs.cz/cs/praha/rozvoz"
+    },
+    {
+      "name": "Wolt",
+      "url": "wolt.com",
+      "orderUrl": "https://wolt.com/en/cze/prague/restaurant/blackdog?utm_source=googlemapreserved&utm_campaign=blackdog"
+    },
+    {
+      "name": "Damejidlo",
+      "url": "damejidlo.cz",
+      "orderUrl": "https://www.damejidlo.cz/restaurant/f2ze/blackdog-cantina?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action"
+    },
+    {
+      "name": "bolt.eu",
+      "url": "bolt.eu",
+      "orderUrl": "https://food.bolt.eu/cs-cz/"
+    }
+  ],
+  "name": "Michal Klucka",
+  "text": "Not good place for a burger, you get more of a meat ball in the middle of a burger instead of patty spread all across the bun. You first eat dry bun, then the meat and then the stuffing, totaly spoiling the experience of maybe a good compact burger. Also two times they forgot our beer order and servis was not much attentive. Would be a nice place for half price, but if you charge 13 euro for bruger with fries, i would expect better quality and servis. Add few more euros and you can enjoy real high quality restaurant such as Mlynec under Zatisi Group. Price here does not reflect the quality.",
+  "publishAt": "6 days ago",
+  "publishedAtDate": "2022-06-04T22:41:46.500Z",
+  "likesCount": 0,
+  "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNPX0l2ZmtRRRAB",
+  "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNPX0l2ZmtRRRAB!2m1!1s0x0:0xbedd4e7f3c787d53!3m1!1s2@1:CIHM0ogKEICAgICO_IvfkQE%7CCgwIqr_vlAYQyIft7gE%7C?hl=en-US",
+  "reviewerId": "104157331706429517171",
+  "reviewerUrl": "https://www.google.com/maps/contrib/104157331706429517171?hl=en-US",
+  "reviewerNumberOfReviews": 14,
+  "isLocalGuide": false,
+  "stars": 3,
+  "rating": null,
+  "responseFromOwnerDate": null,
+  "responseFromOwnerText": null
+},
+{
+  "title": "Black Dog",
+  "subTitle": null,
+  "price": null,
+  "menu": "blackdogs.cz",
+  "categoryName": "American restaurant",
+  "address": "Gorazdova 357 /1, 120 00 Nové Město, Czechia",
+  "locatedIn": null,
+  "neighborhood": "Gorazdova 357 /1",
+  "street": "Gorazdova 357 /1",
+  "city": "New Town",
+  "postalCode": "120 00",
+  "state": null,
+  "countryCode": "CZ",
+  "plusCode": "3CF7+9W Prague, Czechia",
+  "website": "https://www.blackdogs.cz/cs/praha",
+  "phone": "+420 735 750 050",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 50.0734534,
+    "lng": 14.4148511
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "placeId": "ChIJPdYse_aUC0cRU314PH9O3b4",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Barbecue restaurant",
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "cid": "13753235145441705299",
+  "url": "https://www.google.com/maps/place/Black+Dog/@50.0734534,14.4126624,17z/data=!4m5!3m4!1s0x470b94f67b2cd63d:0xbedd4e7f3c787d53!8m2!3d50.0734322!4d14.4141292?hl=en",
+  "searchString": null,
+  "scrapedAt": "2022-06-11T08:26:29.341Z",
+  "reviewsCount": 2193,
+  "reviewsDistribution": {
+    "oneStar": 52,
+    "twoStar": 48,
+    "threeStar": 189,
+    "fourStar": 561,
+    "fiveStar": 1343
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMnrdM23zjkRYCuLrAqJuETaKc4uKczFgjF-6_c=w1920-h1080-k-no"
+  ],
+  "orderBy": [
+    {
+      "name": "blackdogs.cz",
+      "url": "blackdogs.cz",
+      "orderUrl": "https://www.blackdogs.cz/cs/praha/rozvoz"
+    },
+    {
+      "name": "Wolt",
+      "url": "wolt.com",
+      "orderUrl": "https://wolt.com/en/cze/prague/restaurant/blackdog?utm_source=googlemapreserved&utm_campaign=blackdog"
+    },
+    {
+      "name": "Damejidlo",
+      "url": "damejidlo.cz",
+      "orderUrl": "https://www.damejidlo.cz/restaurant/f2ze/blackdog-cantina?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action"
+    },
+    {
+      "name": "bolt.eu",
+      "url": "bolt.eu",
+      "orderUrl": "https://food.bolt.eu/cs-cz/"
+    }
+  ],
+  "name": "Leni S.",
+  "text": "I love this restaurant in Beroun.I think that the Prague is not as good as Beroun but it has a great standard of services as well. We had range of foods from starter until dessert. Burgers were great, juicy with good and interesting combination of other ingredients. Waiters were friendly even some hiccups with wrongly ordered drinks happen. They were smiling and were polite.",
+  "publishAt": "a month ago",
+  "publishedAtDate": "2022-05-03T21:03:33.254Z",
+  "likesCount": 0,
+  "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUQya0lXX3V3RRAB",
+  "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUQya0lXX3V3RRAB!2m1!1s0x0:0xbedd4e7f3c787d53!3m1!1s2@1:CIHM0ogKEICAgID2kIW_uwE%7CCgsIpbHGkwYQ6P6OeQ%7C?hl=en-US",
+  "reviewerId": "114381688433277622339",
+  "reviewerUrl": "https://www.google.com/maps/contrib/114381688433277622339?hl=en-US",
+  "reviewerNumberOfReviews": 39,
+  "isLocalGuide": true,
+  "stars": 4,
+  "rating": null,
+  "responseFromOwnerDate": null,
+  "responseFromOwnerText": null
+},
+{
+  "title": "Black Dog",
+  "subTitle": null,
+  "price": null,
+  "menu": "blackdogs.cz",
+  "categoryName": "American restaurant",
+  "address": "Gorazdova 357 /1, 120 00 Nové Město, Czechia",
+  "locatedIn": null,
+  "neighborhood": "Gorazdova 357 /1",
+  "street": "Gorazdova 357 /1",
+  "city": "New Town",
+  "postalCode": "120 00",
+  "state": null,
+  "countryCode": "CZ",
+  "plusCode": "3CF7+9W Prague, Czechia",
+  "website": "https://www.blackdogs.cz/cs/praha",
+  "phone": "+420 735 750 050",
+  "temporarilyClosed": false,
+  "location": {
+    "lat": 50.0734534,
+    "lng": 14.4148511
+  },
+  "permanentlyClosed": false,
+  "totalScore": 4.4,
+  "placeId": "ChIJPdYse_aUC0cRU314PH9O3b4",
+  "categories": [
+    "American restaurant",
+    "Bar",
+    "Barbecue restaurant",
+    "Hamburger restaurant",
+    "Restaurant"
+  ],
+  "cid": "13753235145441705299",
+  "url": "https://www.google.com/maps/place/Black+Dog/@50.0734534,14.4126624,17z/data=!4m5!3m4!1s0x470b94f67b2cd63d:0xbedd4e7f3c787d53!8m2!3d50.0734322!4d14.4141292?hl=en",
+  "searchString": null,
+  "scrapedAt": "2022-06-11T08:26:29.341Z",
+  "reviewsCount": 2193,
+  "reviewsDistribution": {
+    "oneStar": 52,
+    "twoStar": 48,
+    "threeStar": 189,
+    "fourStar": 561,
+    "fiveStar": 1343
+  },
+  "imageUrls": [
+    "https://lh5.googleusercontent.com/p/AF1QipMnrdM23zjkRYCuLrAqJuETaKc4uKczFgjF-6_c=w1920-h1080-k-no"
+  ],
+  "orderBy": [
+    {
+      "name": "blackdogs.cz",
+      "url": "blackdogs.cz",
+      "orderUrl": "https://www.blackdogs.cz/cs/praha/rozvoz"
+    },
+    {
+      "name": "Wolt",
+      "url": "wolt.com",
+      "orderUrl": "https://wolt.com/en/cze/prague/restaurant/blackdog?utm_source=googlemapreserved&utm_campaign=blackdog"
+    },
+    {
+      "name": "Damejidlo",
+      "url": "damejidlo.cz",
+      "orderUrl": "https://www.damejidlo.cz/restaurant/f2ze/blackdog-cantina?utm_source=google&utm_medium=organic&utm_campaign=google_reserve_place_order_action"
+    },
+    {
+      "name": "bolt.eu",
+      "url": "bolt.eu",
+      "orderUrl": "https://food.bolt.eu/cs-cz/"
+    }
+  ],
+  "name": "Gokilla",
+  "text": "The American Burger is recommendable. The Staff very friendly. Everything pretty nice. Thumbs up👍🏼 keep doing a great job.",
+  "publishAt": "10 months ago",
+  "publishedAtDate": "2021-07-24T13:02:35.860Z",
+  "likesCount": 0,
+  "reviewId": "ChdDSUhNMG9nS0VJQ0FnSUNhOUpPSHdBRRAB",
+  "reviewUrl": "https://www.google.com/maps/reviews/data=!4m8!14m7!1m6!2m5!1sChdDSUhNMG9nS0VJQ0FnSUNhOUpPSHdBRRAB!2m1!1s0x0:0xbedd4e7f3c787d53!3m1!1s2@1:CIHM0ogKEICAgICa9JOHwAE%7CCgwI657whwYQ0PPGmgM%7C?hl=en-US",
+  "reviewerId": "115073615000998931010",
+  "reviewerUrl": "https://www.google.com/maps/contrib/115073615000998931010?hl=en-US",
+  "reviewerNumberOfReviews": 62,
+  "isLocalGuide": true,
+  "stars": 5,
+  "rating": null,
+  "responseFromOwnerDate": null,
+  "responseFromOwnerText": null
+}]
